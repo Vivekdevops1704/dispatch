@@ -1,5 +1,5 @@
 @Library('roboshop') _
 
-env.component="cart"
+env.component="dispatch"
 env.codeType="golang"
 cipipeline()
